@@ -1,0 +1,26 @@
+{
+  "name": "mean-stack-boilerplate",
+  "description": "A personalized boilerplate for a MEAN stack",
+  "main": "app.js",
+  "authors": [
+    "Leroy Leslie"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.8",
+    "angular-route": "^1.6.8",
+    "bootstrap": "4.0.0-alpha.5",
+    "jquery": "^3.3.1",
+    "materialize": "^0.100.2",
+    "tether": "^1.4.3"
+  }
+}
